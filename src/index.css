@@ -65,3 +65,13 @@ nav a:active {
 #about a {
   display: block;
 }
+#linkinfo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  height: 100vh;
+  padding: 1rem;
+}
+
